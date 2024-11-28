@@ -1,0 +1,5 @@
+add_subdirectory(base)
+add_subdirectory(plugin-base)
+add_subdirectory(plugin-loader)
+add_subdirectory(plugin-validator)
+add_subdirectory(modules-interfaces)
